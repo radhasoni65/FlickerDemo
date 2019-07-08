@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FlickrDemo</string>
+    <string name="no_network_msg">No internet available.Please check you internet connection.</string>
+    <string name="loading">Loading please wait...</string>
+</resources>
